@@ -493,7 +493,7 @@ reply("waalai'kumsalam")
 }
 
 if (budy.includes("fiqq")){
-reply("fiqq disini")
+reply("saya disini")
 }
 
 if (budy.includes("cekprefix")){
@@ -505,7 +505,7 @@ reply("gw disini")
 }
 
 if (budy.includes("bot")){
-reply("aktif")
+reply("Hallo kaka, saya disini")
 }
 
 //TAMPILAN LOG!
